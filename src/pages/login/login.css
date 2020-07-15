@@ -1,0 +1,27 @@
+.login-container {
+    height: 100%;
+}
+
+.login-form {
+    height: 25%;
+    background: #46a54c;/*#bae5bd;*/
+    border-radius: 25px;
+    box-shadow: 0 0 15px 0 black;
+}
+
+.login-input {
+    width: 60%;
+    border-radius: 15px;
+    height: 25%;
+    margin-top: 5%;
+}
+
+.login-button {
+    height: 25%;
+    width: 60%;
+    margin-bottom: 5%;
+}
+
+.login-container-min {
+    height: 100%;
+}

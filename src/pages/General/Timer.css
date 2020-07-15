@@ -1,0 +1,15 @@
+.timer-container {
+    background: #46a54c;
+    height: 100px;
+    width: 56%;
+    top: 20px;
+    right: 20px;
+    font-weight: bold;
+    font-size: 5em;
+    z-index: -1;
+    color: wheat;
+}
+
+.last-time{
+    color: #f60000;
+}

@@ -1,0 +1,28 @@
+.header {
+    background: #46a54c;
+    width: 60%;
+    border-radius: 0 0 25px 25px;
+    box-shadow: 0 0 15px 0 black;
+}
+
+.team-name {
+    padding: 15px;
+    color: white;
+    text-transform: uppercase;
+    font-size: large;
+}
+
+.input-block {
+    width: 56%;
+
+}
+
+.input-block .input {
+    padding: 10px;
+    border-bottom-left-radius: 15px;
+}
+.button {
+    padding: 10px;
+    height: 100%;
+    border-bottom-right-radius: 15px;
+}

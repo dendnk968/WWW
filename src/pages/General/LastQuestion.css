@@ -1,0 +1,10 @@
+.last-question-container {
+    background: #46a54c;
+    width: 56%;
+    height: 100%;
+    font-weight: bold;
+    font-size: 3em;
+    z-index: -1;
+    color: wheat;
+    margin-bottom: 0;
+}
